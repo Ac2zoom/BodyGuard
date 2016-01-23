@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
 
-        runner.Run();
+//        runner.Run();
     }
 
     private void setupViewPager(ViewPager viewPager) {
